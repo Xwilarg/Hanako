@@ -14,6 +14,9 @@ void setup() {
 }
 
 void loop() {
-  motorLeft.step(steps);
-  motorRight.step(steps);
+  for (int i = 0; i < steps; i++)
+  {
+    motorLeft.step(1);
+    motorRight.step(1);
+  }
 }
