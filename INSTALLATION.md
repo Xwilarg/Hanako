@@ -15,6 +15,9 @@
 - IN4 to pin 52
 - Power pins to 5V and GND
 
-## LEDS
+## LED
 - Green led to 5V and GND (100Ω resistance)
-- Blue led to pin 12 and GND (100Ω resistance)
+
+# Buzzer
+- Signal to pin 2
+- Power pins to 5V and GND
