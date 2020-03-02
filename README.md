@@ -10,4 +10,4 @@ There is still a long way before it can clean anything, but I'm working on it
  - Wires
  
 ## Installation
-See INSTALLATION.md
+See [INSTALLATION.md](INSTALLATION.md)
