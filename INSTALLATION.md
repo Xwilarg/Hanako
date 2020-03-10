@@ -8,7 +8,7 @@
 - IN4 to pin 53
 - Power pins to 5V and GND
 
-## Left Stepper Motor
+## Right Stepper Motor
 - IN1 to pin 46
 - IN2 to pin 48
 - IN3 to pin 50
